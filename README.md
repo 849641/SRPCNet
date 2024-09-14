@@ -6,4 +6,4 @@
   The SSP2000 dataset can be downloaded from [here](https://pan.baidu.com/s/1xbY5F7K1lwmn8di1PIgkSA?pwd=ve6k).
 # Our experiment results
   + Checkpoint: The checkpoint of the SRPCNet can be downloaded from [here](https://pan.baidu.com/s/1ETcCLARkekzJZMQrhEpXBw?pwd=7h48).
-  + Saliency maps: The saliency maps of the SRPCNet can be downloaded from [here](https://pan.baidu.com/s/10-ZqaX3-TIrJ0I7QA54wzQ?pwd=stav).
+  + Saliency maps: The saliency maps of the SRPCNet can be downloaded from [here](https://pan.baidu.com/s/1RweWwKeuaUI7tUQCdq-Rww?pwd=bd8u).
