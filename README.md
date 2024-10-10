@@ -14,15 +14,15 @@ The code and dataset are available at [Code]() and [Dataset]().
 
 ## Citation
 ```
-@ARTICLE{10623389,
-  author={An, Chenxi and Song, Kechen and Bao, Lulu and Zhao, Dong and Zhou, Zhenbo and Yan, Yunhui},
-  journal={IEEE Sensors Journal}, 
-  title={A Novel Edge Detection Method of Blade with Multi-Supervision for Fore-Background Confusion Caused by Extreme Illumination}, 
+@ARTICLE{,
+  author={Hongshu Chen, Kechen Song, Wenqi Cui, Tianle Zhang ,Yunhui Yan and Jun Li},
+  journal={IEEE Transactions on Industrial Informatics}, 
+  title={SRPCNet: Self-Reinforcing Perception Coordination Network for Seamless Steel Pipes Internal Surface Defect Detection}, 
   year={2024},
   volume={},
   number={},
   pages={1-1},
-  keywords={Image edge detection;Task analysis;Lighting;Feature extraction;Blades;Object detection;Optical variables measurement;Aeroengine blade (AEB);edge detection;vision-based measurement (VBM);high-level feature learning;extreme illumination},
-  doi={10.1109/JSEN.2024.3435358}}
+  keywords={Detection system;Pipe internal surface dataset;Salient object detection (SOD);Seamless steel pipes (SSPs);Surface defect detection},
+  doi={10.1109/TII.2024.3470895}}
   
 ```
