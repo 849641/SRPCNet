@@ -14,15 +14,5 @@ The code and dataset are available at [Code]() and [Dataset]().
 
 ## Citation
 ```
-@ARTICLE{,
-  author={Hongshu Chen, Kechen Song, Wenqi Cui, Tianle Zhang ,Yunhui Yan and Jun Li},
-  journal={IEEE Transactions on Industrial Informatics}, 
-  title={SRPCNet: Self-Reinforcing Perception Coordination Network for Seamless Steel Pipes Internal Surface Defect Detection}, 
-  year={2024},
-  volume={},
-  number={},
-  pages={},
-  keywords={Detection system;Pipe internal surface dataset;Salient object detection (SOD);Seamless steel pipes (SSPs);Surface defect detection},
-  doi={10.1109/TII.2024.3470895}}
-  
+
 ```
