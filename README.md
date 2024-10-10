@@ -10,7 +10,7 @@ Our application demonstration video can be found at [here](https://www.bilibili.
 The code and dataset are available at [Code]() and [Dataset]().
 
 ## Result
-
+![vis.jpg](https://s2.loli.net/2024/10/10/4rVSfzTs1eK6ZtL.jpg)
 
 ## Citation
 ```
