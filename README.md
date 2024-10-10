@@ -1,5 +1,5 @@
 # SRPCNet: Self-Reinforcing Perception Coordination Network for Seamless Steel Pipes Internal Surface Defect Detection
-Our paper was accepted by IEEE Transactions on Industrial Informatics (TII)!
+Our paper was accepted by IEEE Transactions on Industrial Informatics (TII)!\
 ![graph_abstract](BED_illu/Graphical_Abstract.jpg)
 ![pipeline](BED_illu/pipeline.jpg)
 
