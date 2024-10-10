@@ -21,7 +21,7 @@ The code and dataset are available at [Code]() and [Dataset]().
   year={2024},
   volume={},
   number={},
-  pages={1-1},
+  pages={},
   keywords={Detection system;Pipe internal surface dataset;Salient object detection (SOD);Seamless steel pipes (SSPs);Surface defect detection},
   doi={10.1109/TII.2024.3470895}}
   
