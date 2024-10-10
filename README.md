@@ -7,7 +7,7 @@
 Our application demonstration video can be found at [here](https://www.bilibili.com/video/BV1mG8deTEFq/?spm_id_from=333.999.0.0&vd_source=ab05d37c1ff3c6b02c65129c48e58661).
 
 ## Code and Dataset
-The code and dataset are available. [Code]() [Dataset]()
+The code and dataset are available at [Code]() and [Dataset]().
 
 ## Result
 
